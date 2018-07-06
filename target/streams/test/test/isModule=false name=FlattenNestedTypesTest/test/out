@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mFlattenNestedTypesTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mFlattenNestedTypesTest[0m[0m
+[0m[[0minfo[0m] [0m[32mflattenTheNestedArray[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a single array of integers as response[0m[0m
+[0m[[0minfo[0m] [0m[32mflattenTheNestedArray[0m[0m
+[0m[[0minfo[0m] [0m[32m- should conatin all sub arrays[0m[0m
