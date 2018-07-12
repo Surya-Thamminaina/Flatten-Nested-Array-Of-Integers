@@ -8,7 +8,6 @@ object Application extends App{
 
   val inputArray = Array(1, Array(2,3), 4, Array(5, Array(6, Array(7))))
 
-  println(s"Input array is: Array(1, Array(2,3), 4, Array(5, Array(6, Array(7))))")
   println(s"Resultant array's elements are: ${ArrayUtil.flattenIntegerArrays(inputArray).mkString(",")}")
 
 }

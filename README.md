@@ -15,6 +15,20 @@ This is a very small SBT application which contains a single function and its un
 
 This application requires SBT as a prerequisite.
 
+## How to run
+
+- Download (and extract)/ Clone this project to your local
+- Goto root directory of the project
+- Start SBT. ```sbt```
+- and then hit run command `run`
+
+Note:
+- This application calls the flattening array function with hardcoded input array: `Array(1, Array(2,3), 4, Array(5, Array(6, Array(7))))`
+- Running this application with out any change should result the output as below.
+```
+   Resultant array's elements are: 1,2,3,4,5,6,7
+```
+- Feel free to change the value of `inputArray` at `Application.scala` accordingly to run this application for different input
 
 ## How to test
 
